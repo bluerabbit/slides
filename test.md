@@ -2,6 +2,15 @@
 
 ---
 
+## I'm...
+
+* bluerabbit
+* <https://github.com/bluerabbit>
+
+![me](images/me_icon.jpg)
+
+---
+
 ## Slideck
 
 * githubのmarkdownをslide化してくれる
